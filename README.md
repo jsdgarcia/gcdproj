@@ -1,7 +1,4 @@
----
-title: "README"
-output: html_document
----
+## "README"
 
 The script starts by importing the names of the variables from the file "features.txt" and saves them in a vector called **features**.
 
